@@ -1,4 +1,4 @@
-module out
+module github.com/Carla99R/openApi
 
 go 1.13
 
